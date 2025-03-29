@@ -53,5 +53,5 @@ This project is **open-source** under the MIT License.
 ### ⭐ Feel free to fork, star, and contribute to this project!
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/seeram-murali-ganesh-9a6b62258/)
 
